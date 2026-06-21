@@ -4,6 +4,7 @@ A full-stack, light-themed (white / red / blue) interactive explorer for 60+ dee
 
 This is the **MERN-style rewrite** of the original single-file NeuraLens prototype: proper client/server separation, a real compute engine, and a complete redesign from dark multi-color theme to a clean white/red/blue light theme.
 
+### Live at - https://neura-lens.vercel.app/
 ---
 
 ## What's new in v2 vs v1
